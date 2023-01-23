@@ -1,2 +1,3 @@
-stack: heroku-20
 web: gunicorn app:app
+stack: heroku-18
+
